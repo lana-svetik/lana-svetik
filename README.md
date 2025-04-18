@@ -22,7 +22,6 @@
 [![Homebridge](https://img.shields.io/badge/-Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=FFFFFF)](https://github.com/homebridge/homebridge)
 [![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=FFFFFF)](https://github.com/jellyfin/jellyfin)
 [![AdGuard Home](https://img.shields.io/badge/-AdGurd_Home-68BC71?style=for-the-badge&logo=adguard&logoColor=FFFFFF)](https://github.com/AdguardTeam/AdGuardHome)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=FFFFFF)](https://github.com/MariaDB/server)
 
 ### Sonstiges Gedöns
 [![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF)](https://www.apple.com/de/macos/)
