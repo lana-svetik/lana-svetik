@@ -28,8 +28,8 @@
 [![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF)](https://www.apple.com/de/macos/)
 [![Linux](https://img.shields.io/badge/-Debian-FCC624?style=for-the-badge&logo=linux&logoColor=000000)](https://github.com/raspberrypi/linux)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)](https://www.raspberrypi.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://github.com/docker/compose)
 [![QNAP](https://img.shields.io/badge/-QNAP-0C2E82?style=for-the-badge&logo=webdriverio&logoColor=ffffff)](https://www.qnap.com/de-de/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://github.com/docker/compose)
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡶⢶⣦⡀
