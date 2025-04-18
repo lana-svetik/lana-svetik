@@ -20,7 +20,6 @@
 [![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=FFFFFF)](https://github.com/nextcloud)
 [![Immich](https://img.shields.io/badge/-Immich-4250AF?style=for-the-badge&logo=immich&logoColor=FFFFFF)](https://github.com/immich-app)
 [![Homebridge](https://img.shields.io/badge/-Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=FFFFFF)](https://github.com/homebridge)
-[![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=FFFFFF)](https://github.com/jellyfin)
 [![AdGuard Home](https://img.shields.io/badge/-AdGurd_Home-68BC71?style=for-the-badge&logo=adguard&logoColor=FFFFFF)](https://github.com/AdguardTeam/AdGuardHome)
 
 ### Sonstiges Gedöns
