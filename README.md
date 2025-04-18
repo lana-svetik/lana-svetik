@@ -17,18 +17,18 @@
 [![SWIFT](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=FFFFFF)](https://developer.apple.com/swift/)
 
 ### Self-Hosted
-[![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=FFFFFF)](https://github.com/nextcloud/server)
-[![Immich](https://img.shields.io/badge/-Immich-4250AF?style=for-the-badge&logo=immich&logoColor=FFFFFF)](https://github.com/immich-app/immich)
-[![Homebridge](https://img.shields.io/badge/-Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=FFFFFF)](https://github.com/homebridge/homebridge)
-[![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=FFFFFF)](https://github.com/jellyfin/jellyfin)
+[![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=FFFFFF)](https://github.com/nextcloud)
+[![Immich](https://img.shields.io/badge/-Immich-4250AF?style=for-the-badge&logo=immich&logoColor=FFFFFF)](https://github.com/immich-app)
+[![Homebridge](https://img.shields.io/badge/-Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=FFFFFF)](https://github.com/homebridge)
+[![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=FFFFFF)](https://github.com/jellyfin)
 [![AdGuard Home](https://img.shields.io/badge/-AdGurd_Home-68BC71?style=for-the-badge&logo=adguard&logoColor=FFFFFF)](https://github.com/AdguardTeam/AdGuardHome)
 
 ### Sonstiges Gedöns
 [![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF)](https://www.apple.com/de/macos/)
-[![Linux](https://img.shields.io/badge/-Debian-FCC624?style=for-the-badge&logo=linux&logoColor=000000)](https://github.com/raspberrypi/linux)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)](https://www.raspberrypi.com/)
+[![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://github.com/Debian)
 [![QNAP](https://img.shields.io/badge/-QNAP-0C2E82?style=for-the-badge&logo=webdriverio&logoColor=ffffff)](https://www.qnap.com/de-de/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://github.com/docker/compose)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)](https://github.com/raspberrypi)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://github.com/docker)
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡶⢶⣦⡀
